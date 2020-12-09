@@ -1,0 +1,10 @@
+D:\c#\reklama\reklama\bin\Debug\reklama.exe.config
+D:\c#\reklama\reklama\bin\Debug\reklama.exe
+D:\c#\reklama\reklama\bin\Debug\reklama.pdb
+D:\c#\reklama\reklama\obj\Debug\reklama.csprojAssemblyReference.cache
+D:\c#\reklama\reklama\obj\Debug\reklama.AD.resources
+D:\c#\reklama\reklama\obj\Debug\reklama.Properties.Resources.resources
+D:\c#\reklama\reklama\obj\Debug\reklama.csproj.GenerateResource.cache
+D:\c#\reklama\reklama\obj\Debug\reklama.csproj.CoreCompileInputs.cache
+D:\c#\reklama\reklama\obj\Debug\reklama.exe
+D:\c#\reklama\reklama\obj\Debug\reklama.pdb
